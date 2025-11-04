@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20300b98-c437-46b7-bc4d-5bb2dba9c8f2" name="Changes" comment="change name master to main" />
+    <list default="true" id="20300b98-c437-46b7-bc4d-5bb2dba9c8f2" name="Changes" comment="Add title index.html">
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,9 @@
     &quot;accountId&quot;: &quot;048b8daf-2042-4070-b60f-f4ff29cdb3e2&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -40,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -52,9 +60,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;liveEdit&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +88,9 @@
       <workItem from="1762111283000" duration="102000" />
       <workItem from="1762111740862" duration="297000" />
       <workItem from="1762200825913" duration="225000" />
+      <workItem from="1762201210742" duration="1405000" />
+      <workItem from="1762203265886" duration="4337000" />
+      <workItem from="1762288202367" duration="2841000" />
     </task>
     <task id="LOCAL-00001" summary="git@github.com:shershenr/project.git">
       <option name="closed" value="true" />
@@ -115,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762200967415</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add title index.html">
+      <option name="closed" value="true" />
+      <created>1762201269696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762201269696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +151,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="nothing" />
     <MESSAGE value="change name master to main" />
-    <option name="LAST_COMMIT_MESSAGE" value="change name master to main" />
+    <MESSAGE value="Add title index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add title index.html" />
   </component>
 </project>
