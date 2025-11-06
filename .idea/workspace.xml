@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20300b98-c437-46b7-bc4d-5bb2dba9c8f2" name="Changes" comment="Add title index.html">
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
       <workItem from="1762201210742" duration="1405000" />
       <workItem from="1762203265886" duration="4337000" />
       <workItem from="1762288202367" duration="2841000" />
+      <workItem from="1762452197019" duration="2247000" />
     </task>
     <task id="LOCAL-00001" summary="git@github.com:shershenr/project.git">
       <option name="closed" value="true" />

@@ -39,5 +39,54 @@ for (key in user) {
     console.log(key);
     console.log(user[key]);
 }
-*/
+
+const value = prompt("Please enter a number!");
+console.log(typeof value);
+console.log(value);
+
+
+value = false;
+console.log(value);
+const newValue = String(value);
+console.log(typeof newValue);
+
+
+value = "123";
+console.log(typeof value);
+
+const newValue = Number(value);
+console.log( newValue);
+
+
+
+const test = Number("qwe")
+console.log( test)
+
+
+console.log(Boolean(NaN));
+
+
+
+if (5 + 5 === 10){
+    console.log("Hello");
+} else{
+    console.log("2");
+}
+
+
+(2 + 4 === 6) ? console.log("1") : console.log("2");
+
+
+5 * 5 === 24 ? console.log(true) : console.log(false);
+
+
+if (5 + 5 === 7) {
+    console.log("5 + 5 === 7");
+} else if (2 + 1 === 4) {
+    console.log("2 + 2 === 4");
+} else {
+    console.log("no");
+}
+
+ */
 
