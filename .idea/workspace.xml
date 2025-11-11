@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20300b98-c437-46b7-bc4d-5bb2dba9c8f2" name="Changes" comment="Add title index.html">
+    <list default="true" id="20300b98-c437-46b7-bc4d-5bb2dba9c8f2" name="Changes" comment="Lesson 2 if/else">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
@@ -90,7 +90,9 @@
       <workItem from="1762201210742" duration="1405000" />
       <workItem from="1762203265886" duration="4337000" />
       <workItem from="1762288202367" duration="2841000" />
-      <workItem from="1762452197019" duration="2247000" />
+      <workItem from="1762452197019" duration="2573000" />
+      <workItem from="1762714274405" duration="2994000" />
+      <workItem from="1762893241135" duration="4351000" />
     </task>
     <task id="LOCAL-00001" summary="git@github.com:shershenr/project.git">
       <option name="closed" value="true" />
@@ -140,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762201269696</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lesson 2 if/else">
+      <option name="closed" value="true" />
+      <created>1762454793891</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762454793891</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,7 @@
     <MESSAGE value="nothing" />
     <MESSAGE value="change name master to main" />
     <MESSAGE value="Add title index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add title index.html" />
+    <MESSAGE value="Lesson 2 if/else" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2 if/else" />
   </component>
 </project>
