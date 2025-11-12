@@ -292,8 +292,54 @@ let arr = [1,2,3,4,5]
 let red = arr.reduce((summ, item)=> summ+item)
 console.log(red)
 
- */
+
 let arr = [23, 12, 23];
 
 let red = arr.reduce(( sum, item ) => sum + item) / arr.length;
-console.log(red);
+console.log(red);\
+
+ */
+
+const value = prompt("Введіть день");
+let day;
+
+    switch (value) {
+        case "Monday":
+            day = "Tuesday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+        case "Tuesday":
+            day = "Wednesday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+        case "Wednesday":
+            day = "Thursday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+        case "Thursday":
+            day = "Friday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+        case "Friday":
+            day = "Saturday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+        case "Saturday":
+            day = "Sunday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+        case "Sunday":
+            day = "Monday" ;
+            alert(`after ${value} will be ${day} `)
+            break;
+
+
+    }
+
+
